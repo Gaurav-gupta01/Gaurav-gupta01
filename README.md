@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurav Gupta and I'm a Student, from Goa</h2>
+<h2 align="left">Hi 👋! My name is Gaurav Gupta and I'm a Undergraduate Student</h2>
 
 ###
 Something about me :-
