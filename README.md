@@ -5,7 +5,7 @@ Something about me :-
 
 - :technologist: Currently a Under Graduate Student 
 - 🔭 I’m currently Studing Batchlore of Computer Application   
-- 🌱 I’m currently learning Data Analytics and Data Science  
+  - 🌱 I’m currently learning Spring Boot and Data Science  
 - 📫 How to reach me: [Linkedln-@Gaurav-Gupta](https://www.linkedin.com/in/gaurav-gupta-007349334)
 
 <div align="center">
