@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%" valign="top">
 
@@ -125,53 +125,10 @@ AI-powered civic and environmental incident reporting platform for waste classif
 </td>
 <td width="50%" valign="top">
 
-### 🏋️ Fitness App
-
-A fitness application designed to help users manage workouts, track activities, and monitor their fitness progress.
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[🔗 View Repository](YOUR_FITNESS_APP_REPO_LINK)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### Event Management System
-
-A web application for managing events, registrations, and participant information.
-
-**Tech Stack**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[🔗 View Repository](YOUR_EVENT_MANAGEMENT_REPO_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ Weather App
-
-A weather application that displays weather information using a weather API.
-
-**Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[🔗 View Repository](YOUR_WEATHER_APP_REPO_LINK)
-
-</td>
-</tr>
-</table>
+</table> -->
 
 </div>
 
