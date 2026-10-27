@@ -1,68 +1,132 @@
-<h2 align="left">Hi 👋! My name is Gaurav Gupta and I'm a Undergraduate Student</h2>
+# 👋 Hi, I'm Gaurav Gupta
 
-###
-Something about me :-
+### 💻 Undergraduate Student | BCA | Aspiring Full-Stack Developer
 
-- :technologist: Currently a Under Graduate Student 
-- 🔭 I’m currently Studing Batchlore of Computer Application   
-  - 🌱 I’m currently learning Spring Boot and Data Science  
-- 📫 How to reach me: [Linkedln-@Gaurav-Gupta](https://www.linkedin.com/in/gaurav-gupta-007349334)
+🚀 *Code • Learn • Build • Grow*
+
+I'm an undergraduate Bachelor of Computer Applications (BCA) student passionate about software development, web technologies, and exploring how AI can solve real-world problems.
+
+- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
+- 🌱 Currently learning **Spring Boot and Data Science**
+- 💡 Interested in **Full-Stack Development, AI, and Machine Learning**
+- 🛠️ Building projects to improve my practical development skills
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-gupta-007349334/)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav-gupta01&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Gaurav-gupta01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav-gupta01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gaurav-gupta01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Gaurav-gupta01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
+---
 
+## 🧑‍💻 Tech Stack & Tools
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-###
-<h2 align = "left" >I code with </h2>
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+---
+
+## 🚀 My Projects
+
+Here are some projects I'm building and exploring. Add your repository links and live demos to each project.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Swachh Sankalp
+An AI-powered civic reporting platform for waste classification and reporting environmental incidents.
+
+**Tech:** AI/ML, Python, Web Development
+
+[🔗 View Repository](YOUR_SWACHH_SANKALP_REPO_LINK)
+
+</td>
+<td width="50%">
+
+### 🏋️ Fitness App
+A fitness application designed to help users track workouts and manage their fitness activities.
+
+**Tech:** Add your actual project stack
+
+[🔗 View Repository](YOUR_FITNESS_APP_REPO_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📅 Event Management System
+A web application for managing events, registrations, and participant information.
+
+**Tech:** Spring Boot, MySQL, Java
+
+[🔗 View Repository](YOUR_EVENT_MANAGEMENT_REPO_LINK)
+
+</td>
+<td width="50%">
+
+### 🌦️ Weather App
+A weather application that fetches current weather information using a weather API.
+
+**Tech:** JavaScript, HTML, CSS, Weather API
+
+[🔗 View Repository](YOUR_WEATHER_APP_REPO_LINK)
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the placeholder repository links with your actual GitHub project URLs. Keep only the projects you want to showcase.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gaurav-gupta-007349334/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Gaurav-gupta01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Better Code → Bigger Dreams ✨
+
+*“Every expert was once a beginner who never stopped learning.”*
+
+⭐ Thanks for visiting my profile!
+
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gaurav-gupta-007349334/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  
-</div>
-
-###
