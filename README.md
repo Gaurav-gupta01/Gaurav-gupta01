@@ -121,8 +121,7 @@ AI-powered civic and environmental incident reporting platform for waste classif
 ![AI](https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-[🔗 View Repository](YOUR_SWACHH_SANKALP_REPO_LINK)
-
+[🔗 View Repository](https://github.com/Gaurav-gupta01/swachhSankalp.git)
 </td>
 <td width="50%" valign="top">
 
